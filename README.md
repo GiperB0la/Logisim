@@ -1,4 +1,4 @@
-# ⚡ Logisim
+# 🔌 Logisim
 
 **Logisim** — an application for building digital circuits from basic logic gates.  
 The graphical interface is built with **SFML**.
