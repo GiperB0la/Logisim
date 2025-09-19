@@ -31,7 +31,7 @@ The graphical interface is built with **SFML**.
 ```powershell
 # Clone project
 git clone https://github.com/GiperB0la/Logisim.git
-cd Tetris
+cd Logisim
 mkdir build && cd build
 
 # Configure (set SFML_DIR to your SFML cmake folder)
